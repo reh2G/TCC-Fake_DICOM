@@ -17,9 +17,9 @@ Alunos:
 > * Frequencias.ipynb > Código para testar a geração de espectros de altas e baixas frequências
 
 > [!TIP]
-> * Classification_report > Gerado por CNN-espectro.ipynb
-> * Confusion_matrix > Gerado por CNN-espectro.ipynb
-> * Convergence_graphs > Gerado por CNN-espectro.ipynb
-> * Groups > Gerado por CNN-espectro.ipynb
-> * Models_saves > Gerado por CNN-espectro.ipynb
-> * output_images > Gerado por Frequencias.ipynb
+> * Classification_report > Avaliações de desempenho geradas por CNN-espectro.ipynb
+> * Confusion_matrix > Matrizes de confusão geradas por CNN-espectro.ipynb
+> * Convergence_graphs > Gráficos de convergência gerados por CNN-espectro.ipynb
+> * Groups > Grupos de imagens gerados por CNN-espectro.ipynb
+> * Models_saves > Modelos gerados por CNN-espectro.ipynb
+> * output_images > Imagens das frequências geradas por Frequencias.ipynb
