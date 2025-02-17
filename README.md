@@ -14,6 +14,7 @@ Alunos:
 > * CNN-espectro.ipynb > Código para testar CNN em espectros de altas frequências das imagens
 >   
 > Até o momento: Lê base de dados; Separa imagens em grupos para que não haja enviesamento da base; Simula imagens com informações maliciosas; Apresenta uma CNN base (ainda a definir arquitetura final) e mostra seus resultados.
+> 
 > * Frequencias.ipynb > Código para testar a geração de espectros de altas e baixas frequências
 
 > [!TIP]
