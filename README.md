@@ -1,11 +1,11 @@
 # TCC-Fake_DICOM
 
 Alunos:
-> Carlos Massato Horibe Chinen (R.A: 22.221.010-6)
+> Carlos Massato Horibe Chinen (R.A.: 22.221.010-6)
 > 
-> Gabriel Nunes Missima (22.221.040-3)
+> Gabriel Nunes Missima (R.A.: 22.221.040-3)
 > 
-> Vinicius Alves Pedro (R.A: 22.221.036-1)
+> Vinicius Alves Pedro (R.A.: 22.221.036-1)
 
 > [!WARNING]
 > * Bases > Bases de dados utilizadas para testar os códigos
