@@ -1,14 +1,14 @@
 # TCC-Fake_DICOM
 
+Orientador:
+> Prof. Dr. Paulo Sergio Silva Rodrigues
+
 Alunos:
 > Carlos Massato Horibe Chinen (R.A.: 22.221.010-6)
 > 
 > Gabriel Nunes Missima (R.A.: 22.221.040-3)
 > 
 > Vinicius Alves Pedro (R.A.: 22.221.036-1)
-
-Orientador:
-> Prof. Dr. Paulo Sergio Silva Rodrigues
 
 > [!WARNING]
 > * Bases > Bases de dados utilizadas para testar os códigos
