@@ -7,6 +7,9 @@ Alunos:
 > 
 > Vinicius Alves Pedro (R.A.: 22.221.036-1)
 
+Orientador:
+> Prof. Dr. Paulo Sergio Silva Rodrigues
+
 > [!WARNING]
 > * Bases > Bases de dados utilizadas para testar os códigos
 
