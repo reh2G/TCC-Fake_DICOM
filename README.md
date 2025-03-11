@@ -18,8 +18,8 @@ Alunos:
 >
 > Lê base de dados; Separa imagens em grupos para que não haja enviesamento da base; Simula imagens com informações maliciosas; Apresenta uma CNN base (ainda a definir arquitetura final) e mostra seus resultados.
 >   
-> * CNN-espectro-Resnet152-1.ipynb > Código para testar a arquitetura Resnet152 em espectros de altas frequências das imagens com 5% de ruído em 5% de área das altas frequências
-> * CNN-espectro-Resnet152-2.ipynb > Código para testar a arquitetura Resnet152 em espectros de altas frequências das imagens com 5% de ruído em 100% de área das altas frequências
+> * CNN-espectro-Resnet152-1.ipynb > Código para testar a arquitetura Resnet152 em 5% aleatório da área do espectros de altas frequências das imagens com 5% de ruído
+> * CNN-espectro-Resnet152-2.ipynb > Código para testar a arquitetura Resnet152 em 12% total da área do espectros de altas frequências
 > * Frequencias.ipynb > Código para testar a geração de espectros de altas e baixas frequências
 
 > [!TIP]
