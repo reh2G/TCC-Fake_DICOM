@@ -1,8 +1,0 @@
-              precision    recall  f1-score   support
-
-      Normal       0.50      1.00      0.67       179
-      Hacked       0.00      0.00      0.00       179
-
-    accuracy                           0.50       358
-   macro avg       0.25      0.50      0.33       358
-weighted avg       0.25      0.50      0.33       358
