@@ -24,6 +24,10 @@ Alunos:
 > * CNN-espectro-Resnet50-4.ipynb > Código para testar a arquitetura Resnet50 em 12% total da área do espectros de altas frequências, utilizando método 5-cross-Fold (Apresenta erro de memória no K-Fold)
 > * CNN-espectro-Resnet50-5.ipynb > testes ...
 > * Frequencias.ipynb > Código para testar a geração de espectros de altas e baixas frequências
+> * rsa_sha3/rsa_pixel_crypto_metrics.ipynb > Código para testar a criptografia utilizando o algoritmo RSA no Pixel de cada Slice de uma imagem DICOM e calculando o tempo médio de execução.
+> * rsa_sha3/rsa_pixel_decrypt_metrics.ipynb > Código para testar a descriptografia utilizando o algoritmo RSA no arquivo criptografado do Pixel de cada Slice de uma imagem DICOM e calculando o tempo médio de execução.
+> * rsa_sha3/rsa_spectrum_crypto_metrics.ipynb > Código para testar a criptografia utilizando o algoritmo RSA no espectro de Fourier de cada Slice de uma imagem DICOM e calculando o tempo médio de execução.
+> * rsa_sha3/rsa_spectrum_decrypt_metrics.ipynb > Código para testar a descriptografia utilizando o algoritmo RSA no arquivo criptografado do espectro de Fourier de cada Slice de uma imagem DICOM e calculando o tempo médio de execução.
 
 > [!TIP]
 > * Classification_report > Avaliações de desempenho geradas por CNN-espectro.ipynb
