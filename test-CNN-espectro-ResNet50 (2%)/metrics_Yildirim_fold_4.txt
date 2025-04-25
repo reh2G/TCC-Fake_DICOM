@@ -1,0 +1,20 @@
+Fold 4 Metrics:
+Accuracy: 0.4992272024729521
+Jaccard Score: 0.4992272024729521
+F1 Score: 0.6659793814432989
+Precision: 0.4992272024729521
+Recall: 1.0
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       324
+           1       0.50      1.00      0.67       323
+
+    accuracy                           0.50       647
+   macro avg       0.25      0.50      0.33       647
+weighted avg       0.25      0.50      0.33       647
+
+Confusion Matrix:
+[[  0 324]
+ [  0 323]]
