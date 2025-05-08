@@ -16,14 +16,15 @@ Alunos:
 > * *Bases*<sub>(pasta)</sub> > Bases de dados utilizadas para testar os códigos
 > * *DATASET_dicom_fourier_shift*<sub>(pasta)</sub> + *DATASET_dicom_fourier_spectrum*<sub>(pasta)</sub> > Bases geradas em *Criptografia*<sub>(pasta)</sub> para rodar *testes_CNN_base_Criptografia*<sub>(pasta)</sub>
 
+<!--
 > [!IMPORTANT]
 > **Criptografia**<sub>(pasta)</sub>:
 > 
-> * *rsa_sha3/rsa_pixel_crypto_metrics.ipynb* > Código para testar a criptografia utilizando o algoritmo RSA no Pixel de cada Slice de uma imagem DICOM e calculando o tempo médio de execução
+> * *rsa_sha3/rsa_pixel_crypto_metrics.ipynb* > Código para testar a criptografia utilizando o algoritmo RSA no Pixel de cada Slice de uma imagem DICOM e calculando o tempo médio de execução.
 > * *rsa_sha3/rsa_pixel_decrypt_metrics.ipynb* > Código para testar a descriptografia utilizando o algoritmo RSA no arquivo criptografado do Pixel de cada Slice de uma imagem DICOM e calculando o tempo médio de execução
 > * *rsa_sha3/rsa_spectrum_crypto_metrics.ipynb* > Código para testar a criptografia utilizando o algoritmo RSA no espectro de Fourier de cada Slice de uma imagem DICOM e calculando o tempo médio de execução
-> * *rsa_sha3/rsa_spectrum_decrypt_metrics.ipynb* > Código para testar a descriptografia utilizando o algoritmo RSA no arquivo criptografado do espectro de Fourier de cada Slice de uma imagem DICOM e calculando o tempo médio de execução
-
+> * *rsa_sha3/rsa_spectrum_decrypt_metrics.ipynb* > Código para testar a descriptografia utilizando o algoritmo RSA no arquivo criptografado do espectro de Fourier de cada Slice de uma imagem DICOM e calculando o tempo médio de execução 
+-->
 > [!IMPORTANT]
 > **Rede Neural Convolucional** (CNN):
 > 
